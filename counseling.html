@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>咨询</title>
+    <link  href="Public/css/bootstrap.min.css" rel="stylesheet">
+    <script src="Public/js/jquery-1.11.0.js"></script>
+    <script src="Public/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+<div class="container">
+<h3>我的咨询</h3>
+<form class="form-horizontal" role="form" method="POST" action="index.php/Home/Counseling/submit">
+    <div class="form-group">
+	    <label for="inputContent" class="col-sm-2 control-label">你在烦恼些什么呢？</label>
+	    <div class="col-sm-10">
+	    	<textarea class="form-control" rows="6" name="content" id="inputContent" placeholder="放心大胆地告诉我吧～" required></textarea>
+	    </div>
+    </div>
+    <div class="form-group">
+        <label for="inputName" class="col-sm-2 control-label">联系方式</label>
+	    <div class="col-sm-10">
+		    <div class="input-group">
+		        <div class="input-group-addon">邮箱</div>
+		        <input class="form-control" type="email" name="email" placeholder="可选">
+		    </div>
+		    <br/>
+		    <div class="input-group">
+		        <div class="input-group-addon">手机</div>
+		        <input class="form-control" type="tel" name="phone" placeholder="可选">
+		    </div>
+		    <br/>
+		    <div class="input-group">
+		        <div class="input-group-addon">ＱＱ</div>
+		        <input class="form-control" type="text" name="qq" placeholder="可选">
+		    </div>
+		    <br/>
+		    <p>我有可能会通过以上方式来联系你哟～</p>
+	    </div>
+    </div>
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+      		<button type="submit" class="btn btn-success">将你的话告诉我</button>
+			<hr/>
+      		<p>&copy; 西电自媒体工作室 2014</p>
+        </div>
+    </div>
+</form>
+</div>
+</body>

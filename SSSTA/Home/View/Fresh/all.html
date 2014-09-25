@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <!--
+    <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://cdn.bootcss.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="http://malsup.github.io/jquery.form.js"></script>
+    -->
+    <link rel="stylesheet" href="__PUBLIC__/css/bootstrap.min.css">
+    <script src="__PUBLIC__/js/jquery.min.js"></script>
+    <script src="__PUBLIC__/js/bootstrap.min.js"></script>
+    <script src="__PUBLIC__/js/jquery.form.js"></script>
+
+</head>
+<body>
+<div class="container">
+    <div class="table-responsive">
+        <p>共有 {$count} 份简历，不重复姓名有 {$distinct} 个，已二面打分 {$judged} 个，通过 {$success} 个</p>
+        <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>面试ID</th>
+                <th>性别 0女1男</th>
+                <th>姓名</th>
+                <th>部门方向 0技1设2执</th>
+                <th>一面</th>
+                <th>二面</th>
+                <th>状态</th>
+                <th width="500px">备注</th>
+                <th>投递时间</th>
+            </tr>
+        </thead>
+        <tbody>
+        <volist name="dat" id="vo">
+            <tr>
+                <td><a href="{:U('interview')}?er={$er}&id={$vo.id}">
+                    {$vo.id}
+                </a></td>
+                <td><a href="{:U('interview')}?er={$er}&id={$vo.id}">
+                    {$vo.gender}
+                </a></td>
+                <td><a href="{:U('interview')}?er={$er}&id={$vo.id}">
+                    {$vo.name}
+                </a></td>
+                <td><a href="{:U('interview')}?er={$er}&id={$vo.id}">
+                    {$vo.dept}
+                </a></td>
+                <td><a href="{:U('interview')}?er={$er}&id={$vo.id}">
+                    {$vo.c2}
+                </a></td>
+                <td><a href="{:U('interview')}?er={$er}&id={$vo.id}">
+                    {$vo.c3}
+                </a></td>
+                <td><a href="{:U('interview')}?er={$er}&id={$vo.id}">
+                    {$vo.c4}
+                </a></td>
+                <td><a href="{:U('interview')}?er={$er}&id={$vo.id}">
+                    {$vo.append}
+                </a></td>
+                <td><a href="{:U('interview')}?er={$er}&id={$vo.id}">
+                    {$vo.addtime}
+                </a></td>
+            </tr>
+        </volist>
+        </tbody>
+        </table>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,225 @@
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.055751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.055851s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000375s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000350s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:29:58+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:30:18+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001120s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:31:01+08:00 ] ::1 /sssta/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:31:19+08:00 ] ::1 /sssta/1/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
+[ 2014-08-29T14:31:30+08:00 ] ::1 /sssta/1/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+NOTIC: [2] session_start(): open(php/session\sess_ue7u98p4jg6i371fj8mktd9kk4, O_RDWR) failed: No such file or directory (2) E:\code\php\sssta\1\ThinkPHP\Common\functions.php 第 1168 行.
+
